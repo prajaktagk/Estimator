@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Estimator/static/css/main.583111be.css",
+    "main.js": "/Estimator/static/js/main.7843b911.js",
+    "static/js/496.2f2b1b1b.chunk.js": "/Estimator/static/js/496.2f2b1b1b.chunk.js",
+    "index.html": "/Estimator/index.html",
+    "main.583111be.css.map": "/Estimator/static/css/main.583111be.css.map",
+    "main.7843b911.js.map": "/Estimator/static/js/main.7843b911.js.map",
+    "496.2f2b1b1b.chunk.js.map": "/Estimator/static/js/496.2f2b1b1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.583111be.css",
+    "static/js/main.7843b911.js"
+  ]
+}
